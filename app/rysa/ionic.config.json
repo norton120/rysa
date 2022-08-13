@@ -1,0 +1,7 @@
+{
+  "name": "rysa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
